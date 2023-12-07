@@ -18,7 +18,7 @@ Step2(Alternative):Navigate to the "pr exe" folder and run the main.exe first as
 1. Python
 2. MySQL(Database)
 
-## ------- Preview -------
+##  Preview
 ## Admin-Side Software
 ### Admin-Login Page
 ![image](https://github.com/MeghanathShetty/Library_Management_System_BCA/assets/127648939/7de57f95-1ca5-4734-abaa-3974e7d4ef74)
