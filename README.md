@@ -1,21 +1,22 @@
 # LIBRARY MANAGEMENT SYSTEM
 
-## ------- User Guide -------
+##  User Guide 
 Step1: You will need to turn on mysql first through wamp or xamp.
 
 Step2:First you need to run the main.py as it is the admin-side software this will automatically create a new database(if already doesn't exist),then run the memmain.py for the student-side software.
-Login Credentials for Admin
-Username - admin
-password - 1234
+
+## Admin Guide 
+
                                                                           Or,
                                                                           
 Step2(Alternative):Navigate to the "pr exe" folder and run the main.exe first as it is the admin-side software this will automatically create a new database(if already doesn't exist),then run the memmain.exe for the student-side software.
-## ------- Software Info -------
+## Software Info 
 1. Has penalty system(Fine 1 rupees per day) if late for return or renewal
-## ------- Front-End -------
+
+## Front-End 
 1. PyQt5 (Python Library)
 
-## ------- Back-End -------
+##  Back-End 
 1. Python
 2. MySQL(Database)
 
